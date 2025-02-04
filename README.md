@@ -68,5 +68,10 @@ JavaScript, HTML, and CSS
 # Next Steps
 To enhance the game I would like to expand it to quiz the players on all state capitals in the US. Also I would like to update the scoring for the game to allow players to win if they answer 80% of the state capitals correct instead of 100% of the state capitals. I would also enhance my css code to make user be able actually see a picture of each state, while question is be asked. 
 
-
+# Sources 
+Youtube
+https://www.publicdomainpictures.net/en/view-image.php?image=470546&picture=map-of-american-states ( my picture)
+codeacadmey
+w3schools.com
+brocode
 
