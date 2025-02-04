@@ -1,0 +1,136 @@
+* body {
+    font-family: Arial, sans-serif;
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/usa-wonders-map-illustration-maria-rabinky.jpg);
+    /* background-image: url(https://media.istockphoto.com/id/1341764462/vector/stylized-simple-outline-map-of-usa-icon-blue-sketch-map-of-america-vector-illustration.jpg?s=612x612&w=is&k=20&c=9IPRV84BQs8ecTdWL2URJQs2o3MMUEArZ134q2xQFEA=); */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    margin: 30px;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: white;
+    justify-content: bottom;
+    color: rgb(22, 11, 231);
+    text-shadow: 2px -2px 0px black, ;
+
+
+}
+
+h2 {
+    margin: 90px;
+    font-size: 20px;
+    text-align: center;
+    text-size-adjust: 2px;
+    margin-top: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+
+
+
+}
+
+/*li {
+    text-align: center;
+    text-size-adjust: 2px;
+    margin-bottom: auto;
+    border: black;
+    position: fixed;
+    bottom: 0%;
+    right: 0%;
+    margin-right: 0%;
+}*/
+
+.question {
+    margin: 30px auto;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    text-align: center;
+    border: 2px solid black;
+    /* Add a solid black border */
+    padding: 1px;
+    /* Add padding to give space around the text */
+    border-radius: 10px;
+    background-color: white;
+    width: 30%;
+
+
+}
+
+
+.input-container {
+    margin-top: 10px;
+    border-radius: 20px;
+    margin: 30px auto;
+}
+
+input[type="text"] {
+    padding: 10px;
+    width: 300px;
+    margin-top: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+button {
+    padding: 8px 12px;
+    margin-top: 10px;
+}
+
+.feedback {
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.result {
+
+    font-size: 30px;
+    margin-top: 200px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(31, 20, 191);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: white;
+    margin: 200px;
+    
+}
+
+.result2 {
+    margin-top: 200px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: white;
+    margin: 200px;
+}
+
+.feedback.correct {
+    color: green;
+    text-align: center;
+}
+
+.feedback.incorrect {
+    color: rgb(245, 17, 17);
+    text-align: center;
+}
+
+.feedback.empty {
+    color: rgb(67, 125, 212);
+}
